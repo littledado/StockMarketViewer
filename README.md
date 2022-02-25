@@ -1,4 +1,4 @@
-# FinanceClient
+# Stock Market Viewer
 C# Client for consume [Alpha Vantage API](https://www.alphavantage.co/) 
 
 ## Generate Free API Key
